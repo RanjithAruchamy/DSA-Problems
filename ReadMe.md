@@ -12,3 +12,4 @@ This repository holds the solutions for the DSA problems that I solved.
 ## Data Structures
 - [MyArray](src/Arrays/MyArray.java)
 - [ReverseString](src/Arrays/ReverseString.java)
+- [MergeSortedArray](src/Arrays/MergeSortedArray.java)
