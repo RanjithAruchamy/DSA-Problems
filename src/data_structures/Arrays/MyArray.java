@@ -1,4 +1,4 @@
-package Arrays;
+package data_structures.Arrays;
 
 import java.util.Arrays;
 

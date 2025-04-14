@@ -1,6 +1,4 @@
-package Arrays;
-
-import java.util.Arrays;
+package data_structures.Arrays;
 
 public class ReverseString {
     
