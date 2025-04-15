@@ -17,3 +17,4 @@ This repository holds the solutions for the DSA problems that I solved.
   - [MergeSortedArray](src/data_structures/Arrays/MergeSortedArray.java)
 - HashTable
   - [MyHashTable](src/data_structures/hash_table/MyHashTable.java)
+  - [FirstRecurringCharacter](src/data_structures/hash_table/FirstRecurringCharacter.java)
