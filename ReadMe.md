@@ -10,6 +10,7 @@ This repository holds the solutions for the DSA problems that I solved.
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - [LongestCommonPrefix](src/leetcode/easy/LongestCommonPrefix.java) 
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [ValidParentheses](src/leetcode/easy/ValidParentheses.java)
 - [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) - [FindIndexOfFirstOccurenceInString](src/leetcode/easy/FindIndexOfFirstOccurenceInString.java)
+- [67. Add Binary](https://leetcode.com/problems/add-binary/) - [AddBinary](src/leetcode/easy/AddBinary.java)
 
 ## Data Structures
 - Array
