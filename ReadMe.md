@@ -12,6 +12,17 @@ This repository holds the solutions for the DSA problems that I solved.
 - [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) - [FindIndexOfFirstOccurenceInString](src/leetcode/easy/FindIndexOfFirstOccurenceInString.java)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/) - [AddBinary](src/leetcode/easy/AddBinary.java)
 
+## Scaler
+### If-Else
+1. Bank Account - [BankAccount](src/scaler/ifelse/BankAccount.java)
+2. Min Of Three - [MinOfThree](src/scaler/ifelse/MinOfThree.java)
+3. Days In Month - [DaysInMonth](src/scaler/ifelse/DaysInMonth.java)
+4. Divisible by 2 Numbers - [DivisibleByTwoNumbers](src/scaler/ifelse/DivisibleByTwoNumbers.java)
+5. Profit Or Loss - [ProfitOrLoss](src/scaler/ifelse/ProfitOrLoss.java)
+6. Angles Of Valid Triangle? - [AnglesOfValidTriangle](src/scaler/ifelse/AnglesOfValidTriangle.java)
+7. Coding Rating - [CodingRating](src/scaler/ifelse/CodingRating.java)
+8. Floor of A/B - [FloorOfAB](src/scaler/ifelse/FloorOfAB.java)
+
 ## Data Structures
 - Array
   - [MyArray](src/data_structures/Arrays/MyArray.java)
