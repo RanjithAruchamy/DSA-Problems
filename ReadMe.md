@@ -24,6 +24,7 @@ This repository holds the solutions for the DSA problems that I solved.
 6. Angles Of Valid Triangle? - [AnglesOfValidTriangle](src/scaler/ifelse/AnglesOfValidTriangle.java)
 7. Coding Rating - [CodingRating](src/scaler/ifelse/CodingRating.java)
 8. Floor of A/B - [FloorOfAB](src/scaler/ifelse/FloorOfAB.java)
+9. Find Second last number = [FindSecondLastNumber](src/scaler/ifelse/FindSecondLastNumber.java)
 
 ## Data Structures
 - Array
