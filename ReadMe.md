@@ -12,6 +12,7 @@ This repository holds the solutions for the DSA problems that I solved.
 - [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) - [FindIndexOfFirstOccurenceInString](src/leetcode/easy/FindIndexOfFirstOccurenceInString.java)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/) - [AddBinary](src/leetcode/easy/AddBinary.java)
 - [69. Sqrt(x)](https://leetcode.com/problems/sqrtx) - [Sqrt](src/leetcode/easy/Sqrt.java)
+- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [ClimbingStairs](src/leetcode/easy/ClimbingStairs.java)
 
 ## Scaler
 ### If-Else
