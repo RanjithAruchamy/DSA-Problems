@@ -26,6 +26,14 @@ This repository holds the solutions for the DSA problems that I solved.
 8. Floor of A/B - [FloorOfAB](src/scaler/ifelse/FloorOfAB.java)
 9. Find Second last number = [FindSecondLastNumber](src/scaler/ifelse/FindSecondLastNumber.java)
 
+### Loop
+1. Sum of Odds - Easy - [SumofOddsEasy](src/scaler/loop/SumofOddsEasy.java)
+2. From top to down - [FromTopToDown](src/scaler/loop/FromTopToDown.java)
+3. From down to top - [FromDownToTop](src/scaler/loop/FromDownToTop.java)
+4. Odd Game - [OddGame](src/scaler/loop/OddGame.java)
+5. Count The Digits - [CountTheDigits](src/scaler/loop/CountTheDigits.java)
+6. Reverse a Number - [ReverseANumber](src/scaler/loop/ReverseANumber.java)
+
 ## Data Structures
 - Array
   - [MyArray](src/data_structures/Arrays/MyArray.java)
