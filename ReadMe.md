@@ -33,6 +33,11 @@ This repository holds the solutions for the DSA problems that I solved.
 4. Odd Game - [OddGame](src/scaler/loop/OddGame.java)
 5. Count The Digits - [CountTheDigits](src/scaler/loop/CountTheDigits.java)
 6. Reverse a Number - [ReverseANumber](src/scaler/loop/ReverseANumber.java)
+7. Multiplication Table! - [MultiplicationTable](src/scaler/loop/MultiplicationTable.java)
+8. Easy Power - [EasyPower](src/scaler/loop/EasyPower.java)
+9. Bank Account - 2 - [BankAccount2](src/scaler/loop/BankAccount2.java)
+10. Sum of Evens - easy - [SumOfEvenEasy](src/scaler/loop/SumOfEvenEasy.java)
+11. Palindromic Integer - [PalindromicInteger](src/scaler/loop/PalindromicInteger.java)
 
 ## Data Structures
 - Array
