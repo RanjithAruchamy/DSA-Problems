@@ -14,6 +14,7 @@ This repository holds the solutions for the DSA problems that I solved.
 - [69. Sqrt(x)](https://leetcode.com/problems/sqrtx) - [Sqrt](src/leetcode/easy/Sqrt.java)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [ClimbingStairs](src/leetcode/easy/ClimbingStairs.java)
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [RemoveDuplicatesFromSortedList](src/leetcode/easy/RemoveDuplicatesFromSortedList.java)
+- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) - [MergeSortedArray](src/leetcode/easy/MergeSortedArray.java)
 
 ## Scaler
 ### If-Else
