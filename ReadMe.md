@@ -40,6 +40,17 @@ This repository holds the solutions for the DSA problems that I solved.
 10. Sum of Evens - easy - [SumOfEvenEasy](src/scaler/loop/SumOfEvenEasy.java)
 11. Palindromic Integer - [PalindromicInteger](src/scaler/loop/PalindromicInteger.java)
 
+### Pattern
+1. Stair Pattern - [StairPattern](src/scaler/pattern/StairPattern.java)
+2. Inverted Half Pyramid - [InvertedHalfPyramid](src/scaler/pattern/InvertedHalfPyramid.java)
+3. Numeric Stair Pattern - [NumericStairPattern](src/scaler/pattern/NumericStairPattern.java)
+4. Print N stars - [PrintNstars](src/scaler/pattern/PrintNstars.java)
+5. Print a matrix of stars - [PrintAMatrixOfStars](src/scaler/pattern/PrintAMatrixOfStars.java)
+6. Two Line Star Pattern - [TwoLineStarPattern](src/scaler/pattern/TwoLineStarPattern.java)
+7. Leading spaces pyramid - [LeadingSpacesPyramid](src/scaler/pattern/LeadingSpacesPyramid.java)
+8. Hollow pyramid pattern - [HollowPyramidPattern](src/scaler/pattern/HollowPyramidPattern.java)
+9. Hollow inverted pyramid pattern - [HollowInvertedPyramidPattern](src/scaler/pattern/HollowInvertedPyramidPattern.java)
+
 ## Data Structures
 - Array
   - [MyArray](src/data_structures/Arrays/MyArray.java)
