@@ -52,6 +52,14 @@ This repository holds the solutions for the DSA problems that I solved.
 8. Hollow pyramid pattern - [HollowPyramidPattern](src/scaler/pattern/HollowPyramidPattern.java)
 9. Hollow inverted pyramid pattern - [HollowInvertedPyramidPattern](src/scaler/pattern/HollowInvertedPyramidPattern.java)
 
+### Function
+1. Favourite Chocolate - [FavouriteChocolate](src/scaler/function/FavouriteChocolate.java)
+2. Add the numbers - [AddTheNumbers](src/scaler/function/AddTheNumbers.java)
+3. Find The Floor - [FindTheFloor](src/scaler/function/FindTheFloor.java)
+4. Find The Ceil - [FindTheCeil](src/scaler/function/FindTheCeil.java)
+5. Volume Of Sphere - [VolumeOfSphere](src/scaler/function/VolumeOfSphere.java)
+6. Area of Circle - [AreaOfCircle](src/scaler/function/AreaOfCircle.java)
+
 ## Data Structures
 - Array
   - [MyArray](src/data_structures/Arrays/MyArray.java)
