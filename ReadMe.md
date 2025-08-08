@@ -60,6 +60,14 @@ This repository holds the solutions for the DSA problems that I solved.
 5. Volume Of Sphere - [VolumeOfSphere](src/scaler/function/VolumeOfSphere.java)
 6. Area of Circle - [AreaOfCircle](src/scaler/function/AreaOfCircle.java)
 
+### Arrays
+1. Sum the Array - [SumTheArray](src/scaler/arrays/SumTheArray.java)
+2. Max and Min of an Array - [MaxAndMinOfAnArray](src/scaler/arrays/MaxAndMinOfAnArray.java)
+3. Print in Reverse - [PrintInReverse](src/scaler/arrays/PrintInReverse.java)
+4. Frequency count - [FrequencyCount](src/scaler/arrays/FrequencyCount.java)
+5. Frequency of X in Array - [FrequencyOfXInArray](src/scaler/arrays/FrequencyOfXInArray.java)
+6. Is X present ?- [IsXPresent](src/scaler/arrays/IsXPresent.java)
+
 ## Data Structures
 - Array
   - [MyArray](src/data_structures/Arrays/MyArray.java)
