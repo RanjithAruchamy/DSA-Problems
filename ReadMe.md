@@ -84,6 +84,14 @@ This repository holds the solutions for the DSA problems that I solved.
 ### SubArray
 1. Generate all subarrays - [GenerateAllSubArrays](src/scaler/arrays/subarray/GenerateAllSubArrays.java)
 2. Subarray in given range - [SubArrayInGivenRange](src/scaler/arrays/subarray/SubArrayInGivenRange.java)
+3. Maximum Subarray Easy - [MaximumSubarrayEasy](src/scaler/arrays/subarray/MaximumSubarrayEasy.java)
+
+### Contribution Technique
+1. Sum of All Subarrays - [SumOfAllSubArrays](src/scaler/arrays/contribution/SumOfAllSubArrays.java)
+
+### Sliding Window
+1. Subarray with given sum and length - [SubarrayWithGivenSumAndLength](src/scaler/arrays/slidingwindow/SubarrayWithGivenSumAndLength.java)
+2. Maximum subarray sum of fixed length - [MaximumSubarraySumOfFixedLength](src/scaler/arrays/slidingwindow/MaximumSubarraySumOfFixedLength.java)
 
 ## Data Structures
 - Array
