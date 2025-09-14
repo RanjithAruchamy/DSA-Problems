@@ -70,12 +70,16 @@ This repository holds the solutions for the DSA problems that I solved.
 
 ### Carry Forward
 1. Special Subsequences "AG" - 2 - [SpecialSubsequencesAG](src/scaler/arrays/carryforward/SpecialSubsequencesAG.java)
+2. Closest MinMax - [ClosestMinMax](src/scaler/arrays/carryforward/ClosestMinMax.java)
 
 ### PrefixSum
 1. Range Sum Query - [RangeSumQuery](src/scaler/arrays/prefixsum/RangeSumQuery.java)
 2. Sum of Even indexed elements in a range - [SumOfEvenIndexedElementsInRange](src/scaler/arrays/prefixsum/SumOfEvenIndexedElementsInRange.java)
 3. In-place Prefix Sum - [InPlacePrefixSum](src/scaler/arrays/prefixsum/InPlacePrefixSum.java)
 4. Equilibrium index of an array - [EquilibriumIndexOfArray](src/scaler/arrays/prefixsum/EquilibriumIndexOfArray.java)
+5. Special Index - [SpecialIndex](src/scaler/arrays/prefixsum/SpecialIndex.java)
+6. Even numbers in a range - [EvenNumbersInARange](src/scaler/arrays/prefixsum/EvenNumbersInARange.java)
+7. Sum of Odd indexed elements in a range - [SumOfOddIndexedElementsInARange](src/scaler/arrays/prefixsum/SumOfOddIndexedElementsInARange.java)
 
 ### SubArray
 1. Generate all subarrays - [GenerateAllSubArrays](src/scaler/arrays/subarray/GenerateAllSubArrays.java)
