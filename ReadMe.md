@@ -68,6 +68,19 @@ This repository holds the solutions for the DSA problems that I solved.
 5. Frequency of X in Array - [FrequencyOfXInArray](src/scaler/arrays/FrequencyOfXInArray.java)
 6. Is X present ?- [IsXPresent](src/scaler/arrays/IsXPresent.java)
 
+### Carry Forward
+1. Special Subsequences "AG" - 2 - [SpecialSubsequencesAG](src/scaler/arrays/carryforward/SpecialSubsequencesAG.java)
+
+### PrefixSum
+1. Range Sum Query - [RangeSumQuery](src/scaler/arrays/prefixsum/RangeSumQuery.java)
+2. Sum of Even indexed elements in a range - [SumOfEvenIndexedElementsInRange](src/scaler/arrays/prefixsum/SumOfEvenIndexedElementsInRange.java)
+3. In-place Prefix Sum - [InPlacePrefixSum](src/scaler/arrays/prefixsum/InPlacePrefixSum.java)
+4. Equilibrium index of an array - [EquilibriumIndexOfArray](src/scaler/arrays/prefixsum/EquilibriumIndexOfArray.java)
+
+### SubArray
+1. Generate all subarrays - [GenerateAllSubArrays](src/scaler/arrays/subarray/GenerateAllSubArrays.java)
+2. Subarray in given range - [SubArrayInGivenRange](src/scaler/arrays/subarray/SubArrayInGivenRange.java)
+
 ## Data Structures
 - Array
   - [MyArray](src/data_structures/Arrays/MyArray.java)
