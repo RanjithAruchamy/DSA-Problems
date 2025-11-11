@@ -93,6 +93,12 @@ This repository holds the solutions for the DSA problems that I solved.
 1. Subarray with given sum and length - [SubarrayWithGivenSumAndLength](src/scaler/arrays/slidingwindow/SubarrayWithGivenSumAndLength.java)
 2. Maximum subarray sum of fixed length - [MaximumSubarraySumOfFixedLength](src/scaler/arrays/slidingwindow/MaximumSubarraySumOfFixedLength.java)
 
+### Stack
+1. Evaluate Expression - [EvaluateExpression](src/scaler/stack/EvaluateExpression.java)
+2. Nearest Smaller Element - [NearestSmallerElement](src/scaler/stack/NearestSmallerElement.java)
+3. Balanced Paranthesis - [BalancedParanthesis](src/scaler/stack/BalancedParanthesis.java)
+4. Passing game - [PassingGame](src/scaler/stack/PassingGame.java)
+
 ## Data Structures
 - Array
   - [MyArray](src/data_structures/Arrays/MyArray.java)
