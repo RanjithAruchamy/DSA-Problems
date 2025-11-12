@@ -98,6 +98,10 @@ This repository holds the solutions for the DSA problems that I solved.
 2. Nearest Smaller Element - [NearestSmallerElement](src/scaler/stack/NearestSmallerElement.java)
 3. Balanced Paranthesis - [BalancedParanthesis](src/scaler/stack/BalancedParanthesis.java)
 4. Passing game - [PassingGame](src/scaler/stack/PassingGame.java)
+5. Next Greater - [NextGreater](src/scaler/stack/NextGreater.java)
+6. Redundant Braces - [RedundantBraces](src/scaler/stack/RedundantBraces.java)
+7. Min Stack - [MinStack](src/scaler/stack/MinStack.java)
+8. Infix To Postfix - [InfixToPostfix](src/scaler/stack/InfixToPostfix.java)
 
 ## Data Structures
 - Array
