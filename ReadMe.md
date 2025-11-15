@@ -102,6 +102,10 @@ This repository holds the solutions for the DSA problems that I solved.
 6. Redundant Braces - [RedundantBraces](src/scaler/stack/RedundantBraces.java)
 7. Min Stack - [MinStack](src/scaler/stack/MinStack.java)
 8. Infix To Postfix - [InfixToPostfix](src/scaler/stack/InfixToPostfix.java)
+9. Double Character Trouble - [DoubleCharacterTrouble](src/scaler/stack/DoubleCharacterTrouble.java)
+10. Largest Rectangle In Histogram - [LargestRectangleInHistogram](src/scaler/stack/LargestRectangleInHistogram.java)
+11. Max and Min - [MAXandMIN](src/scaler/stack/MAXandMIN.java)
+12. Stack Using Linked List - [StackUsingLinkedList](src/scaler/stack/StackUsingLinkedList.java)
 
 ## Data Structures
 - Array
