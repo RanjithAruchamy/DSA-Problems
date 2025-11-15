@@ -110,6 +110,12 @@ This repository holds the solutions for the DSA problems that I solved.
 11. Max and Min - [MAXandMIN](src/scaler/stack/MAXandMIN.java)
 12. Stack Using Linked List - [StackUsingLinkedList](src/scaler/stack/StackUsingLinkedList.java)
 
+### Queue
+1. Queue Using Stacks - [QueueUsingStacks](src/scaler/queue/QueueUsingStacks.java)
+2. Parking Ice Cream Truck - [ParkingIceCreamTruck](src/scaler/queue/ParkingIceCreamTruck.java)
+3. Unique Letter - [UniqueLetter](src/scaler/queue/UniqueLetter.java)
+4. N integers containing only 1, 2 & 3 - [NIntegersContainingOnlyOneTwoAndThree](src/scaler/queue/NIntegersContainingOnlyOneTwoAndThree.java) 
+
 ## Data Structures
 - Array
   - [MyArray](src/data_structures/Arrays/MyArray.java)
