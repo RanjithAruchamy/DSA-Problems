@@ -115,6 +115,7 @@ This repository holds the solutions for the DSA problems that I solved.
 2. Parking Ice Cream Truck - [ParkingIceCreamTruck](src/scaler/queue/ParkingIceCreamTruck.java)
 3. Unique Letter - [UniqueLetter](src/scaler/queue/UniqueLetter.java)
 4. N integers containing only 1, 2 & 3 - [NIntegersContainingOnlyOneTwoAndThree](src/scaler/queue/NIntegersContainingOnlyOneTwoAndThree.java) 
+5. Sum Of Min And Max - [SumOfMinAndMax](src/scaler/queue/SumOfMinAndMax.java)
 
 ## Data Structures
 - Array
