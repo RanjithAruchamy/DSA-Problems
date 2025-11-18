@@ -117,6 +117,9 @@ This repository holds the solutions for the DSA problems that I solved.
 4. N integers containing only 1, 2 & 3 - [NIntegersContainingOnlyOneTwoAndThree](src/scaler/queue/NIntegersContainingOnlyOneTwoAndThree.java) 
 5. Sum Of Min And Max - [SumOfMinAndMax](src/scaler/queue/SumOfMinAndMax.java)
 
+### Tree
+1. Level Order - [LevelOrder](src/scaler/trees/LevelOrder.java)
+
 ## Data Structures
 - Array
   - [MyArray](src/data_structures/Arrays/MyArray.java)
