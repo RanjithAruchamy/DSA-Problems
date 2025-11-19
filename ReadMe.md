@@ -15,6 +15,7 @@ This repository holds the solutions for the DSA problems that I solved.
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [ClimbingStairs](src/leetcode/easy/ClimbingStairs.java)
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [RemoveDuplicatesFromSortedList](src/leetcode/easy/RemoveDuplicatesFromSortedList.java)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) - [MergeSortedArray](src/leetcode/easy/MergeSortedArray.java)
+- [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) - [KeepMultiplyingFoundValuesByTwo](src/leetcode/easy/KeepMultiplyingFoundValuesByTwo.java)
 
 ## Scaler
 ### If-Else
