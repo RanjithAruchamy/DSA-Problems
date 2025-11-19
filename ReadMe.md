@@ -119,6 +119,12 @@ This repository holds the solutions for the DSA problems that I solved.
 
 ### Tree
 1. Level Order - [LevelOrder](src/scaler/trees/LevelOrder.java)
+2. In Order Traversal - [InorderTraversal](src/scaler/trees/InorderTraversal.java)
+3. Post Order Traversal - [PostorderTraversal](src/scaler/trees/PostorderTraversal.java)
+4. Pre Order Traversal - [PreorderTraversal](src/scaler/trees/PreorderTraversal.java)
+5. Right View of Binary Tree - [RightViewOfBinaryTree](src/scaler/trees/RightViewOfBinaryTree.java)
+6. Sum Binary Tree or Not - [SumBinaryTreeOrNot](src/scaler/trees/SumBinaryTreeOrNot.java)
+7. Serialize Binary Tree - [SerializeBinaryTree](src/scaler/trees/SerializeBinaryTree.java)
 
 ## Data Structures
 - Array
