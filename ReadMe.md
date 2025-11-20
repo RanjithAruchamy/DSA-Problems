@@ -126,6 +126,7 @@ This repository holds the solutions for the DSA problems that I solved.
 5. Right View of Binary Tree - [RightViewOfBinaryTree](src/scaler/trees/RightViewOfBinaryTree.java)
 6. Sum Binary Tree or Not - [SumBinaryTreeOrNot](src/scaler/trees/SumBinaryTreeOrNot.java)
 7. Serialize Binary Tree - [SerializeBinaryTree](src/scaler/trees/SerializeBinaryTree.java)
+8. Valid Binary Search Tree - [ValidBinarySearchTree](src/scaler/trees/ValidBinarySearchTree.java)
 
 ## Data Structures
 - Array
