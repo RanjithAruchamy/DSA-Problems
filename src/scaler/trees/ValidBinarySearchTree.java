@@ -39,7 +39,25 @@ public class ValidBinarySearchTree {
             right = null;
         }
     }
-    
+
+    public static int isValidBSTOptimal(TreeNode A) {
+        return isBst(A, Integer.MIN_VALUE, Integer.MAX_VALUE) ? 1 : 0;
+    }
+
+    private static boolean isBst(TreeNode root, int start, int end) {
+        if (root == null) return true;
+
+        if (start <= root.val && root.val <= end) {
+            boolean left = isBst(root.left, start, root.val - 1);
+            if (!left) return  false;
+            boolean right = isBst(root.right, start, root.val + 1);
+            if (!right) return  false;
+            return true;
+        } else {
+            return false;
+        }
+    }
+
     public static int isValidBST(TreeNode A) {
         ArrayList<Integer> res = new ArrayList<>();
         inOrderTraversal(A, res);
@@ -63,12 +81,12 @@ public class ValidBinarySearchTree {
         treeNode.left = new TreeNode(1);
         treeNode.right = new TreeNode(3);
 
-        assert 1 == isValidBST(treeNode);
+        assert 1 == isValidBSTOptimal(treeNode);
 
         TreeNode treeNode1 = new TreeNode(1);
         treeNode1.left = new TreeNode(2);
         treeNode1.right = new TreeNode(3);
 
-        assert 0 == isValidBST(treeNode1);
+        assert 0 == isValidBSTOptimal(treeNode1);
     }
 }

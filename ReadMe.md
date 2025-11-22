@@ -127,6 +127,11 @@ This repository holds the solutions for the DSA problems that I solved.
 6. Sum Binary Tree or Not - [SumBinaryTreeOrNot](src/scaler/trees/SumBinaryTreeOrNot.java)
 7. Serialize Binary Tree - [SerializeBinaryTree](src/scaler/trees/SerializeBinaryTree.java)
 8. Valid Binary Search Tree - [ValidBinarySearchTree](src/scaler/trees/ValidBinarySearchTree.java)
+9. Balanced Binary Tree - [BalancedBinaryTree](src/scaler/trees/BalancedBinaryTree.java)
+10. Delete A Node In BST - [DeleteANodeInBST](src/scaler/trees/DeleteANodeInBST.java)
+11. Path Sum - [PathSum](src/scaler/trees/PathSum.java)
+12. Search In BST - [SearchInBST](src/scaler/trees/SearchInBST.java)
+13. Sorted Array to Balanced BST - [SortedArrayToBalancedBST](src/scaler/trees/SortedArrayToBalancedBST.java)
 
 ## Data Structures
 - Array
