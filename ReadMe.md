@@ -103,6 +103,12 @@ This repository holds the solutions for the DSA problems that I solved.
 6. Square Root of Integer - [SquareRootOfInteger](src/scaler/binarysearch/SquareRootOfInteger.java)
 7. Painter's Partition Problem - [PaintersPartitionProblem](src/scaler/binarysearch/PaintersPartitionProblem.java)
 8. Aggressive cows - [AggressiveCows](src/scaler/binarysearch/AggressiveCows.java)
+9. Rotated Sorted Array Search - [RotatedSortedArraySearch](src/scaler/binarysearch/RotatedSortedArraySearch.java)
+10. Single Element In Sorted Array - [SingleElementInSortedArray](src/scaler/binarysearch/SingleElementInSortedArray.java)
+11. Median of two sorted arrays - [MedianOfTwoSortedArrays](src/scaler/binarysearch/MedianOfTwoSortedArrays.java)
+12. Allocate Books - [AllocateBooks](src/scaler/binarysearch/AllocateBooks.java)
+13. Special Integer - [SpecialInteger](src/scaler/binarysearch/SpecialInteger.java)
+14. ADD OR NOT - [AddOrNot](src/scaler/binarysearch/AddOrNot.java)
 
 ### Stack
 1. Evaluate Expression - [EvaluateExpression](src/scaler/stack/EvaluateExpression.java)
