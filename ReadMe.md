@@ -96,6 +96,13 @@ This repository holds the solutions for the DSA problems that I solved.
 
 ### Binary Search
 1. Search for a Range - [SearchForARange](src/scaler/binarysearch/SearchForARange.java)
+2. Find a Peak Element - [FindAPeakElement](src/scaler/binarysearch/FindAPeakElement.java)
+3. Matrix Search - [MatrixSearch](src/scaler/binarysearch/MatrixSearch.java)
+4. Maximum Height of StairCase - [MaximumHeightOfStaircase](src/scaler/binarysearch/MaximumHeightOfStaircase.java)
+5. Sorted Insert Position - [SortedInsertPosition](src/scaler/binarysearch/SortedInsertPosition.java)
+6. Square Root of Integer - [SquareRootOfInteger](src/scaler/binarysearch/SquareRootOfInteger.java)
+7. Painter's Partition Problem - [PaintersPartitionProblem](src/scaler/binarysearch/PaintersPartitionProblem.java)
+8. Aggressive cows - [AggressiveCows](src/scaler/binarysearch/AggressiveCows.java)
 
 ### Stack
 1. Evaluate Expression - [EvaluateExpression](src/scaler/stack/EvaluateExpression.java)
