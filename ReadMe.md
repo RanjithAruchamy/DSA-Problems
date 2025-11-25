@@ -94,6 +94,16 @@ This repository holds the solutions for the DSA problems that I solved.
 1. Subarray with given sum and length - [SubarrayWithGivenSumAndLength](src/scaler/arrays/slidingwindow/SubarrayWithGivenSumAndLength.java)
 2. Maximum subarray sum of fixed length - [MaximumSubarraySumOfFixedLength](src/scaler/arrays/slidingwindow/MaximumSubarraySumOfFixedLength.java)
 
+### Linked List
+1. Insert in Linked List - [InsertInLinkedList](src/scaler/linkedlist/InsertInLinkedList.java)
+2. Delete in Linked List - [DeleteInLinkedList](src/scaler/linkedlist/DeleteInLinkedList.java)
+3. Reverse Linked List - [ReverseLinkedList](src/scaler/linkedlist/ReverseLinkedList.java)
+4. Copy List - [CopyList](src/scaler/linkedlist/CopyList.java)
+5. Remove Duplicates from Sorted List - [RemoveDuplicatesFromSortedList](src/scaler/linkedlist/RemoveDuplicatesFromSortedList.java)
+6. Remove Nth Node from List End - [RemoveNthNodeFromListEnd](src/scaler/linkedlist/RemoveNthNodeFromListEnd.java)
+7. Reverse Link List II - [ReverseLinkListII](src/scaler/linkedlist/ReverseLinkListII.java)
+8. K reverse linked list - [KReverseLinkedList](src/scaler/linkedlist/KReverseLinkedList.java)
+
 ### Binary Search
 1. Search for a Range - [SearchForARange](src/scaler/binarysearch/SearchForARange.java)
 2. Find a Peak Element - [FindAPeakElement](src/scaler/binarysearch/FindAPeakElement.java)
