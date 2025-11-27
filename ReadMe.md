@@ -157,6 +157,8 @@ This repository holds the solutions for the DSA problems that I solved.
 11. Path Sum - [PathSum](src/scaler/trees/PathSum.java)
 12. Search In BST - [SearchInBST](src/scaler/trees/SearchInBST.java)
 13. Sorted Array to Balanced BST - [SortedArrayToBalancedBST](src/scaler/trees/SortedArrayToBalancedBST.java)
+14. Equal Tree Partition - [EqualTreePartition](src/scaler/trees/EqualTreePartition.java)
+15. Binary Tree From Inorder And Postorder - [BinaryTreeFromInorderAndPostorder](src/scaler/trees/BinaryTreeFromInorderAndPostorder.java)
 
 ## Data Structures
 - Array
