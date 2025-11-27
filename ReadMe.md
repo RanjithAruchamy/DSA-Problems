@@ -133,6 +133,8 @@ This repository holds the solutions for the DSA problems that I solved.
 10. Largest Rectangle In Histogram - [LargestRectangleInHistogram](src/scaler/stack/LargestRectangleInHistogram.java)
 11. Max and Min - [MAXandMIN](src/scaler/stack/MAXandMIN.java)
 12. Stack Using Linked List - [StackUsingLinkedList](src/scaler/stack/StackUsingLinkedList.java)
+13. Max Rectangle in Binary Matrix - [MaxRectangleInBinaryMatrix](src/scaler/stack/MaxRectangleInBinaryMatrix.java)
+14. Sort stack using another stack - [SortStackUsingAnotherStack](src/scaler/stack/SortStackUsingAnotherStack.java)
 
 ### Queue
 1. Queue Using Stacks - [QueueUsingStacks](src/scaler/queue/QueueUsingStacks.java)
