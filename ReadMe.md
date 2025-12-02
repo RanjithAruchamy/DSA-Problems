@@ -159,6 +159,7 @@ This repository holds the solutions for the DSA problems that I solved.
 13. Sorted Array to Balanced BST - [SortedArrayToBalancedBST](src/scaler/trees/SortedArrayToBalancedBST.java)
 14. Equal Tree Partition - [EqualTreePartition](src/scaler/trees/EqualTreePartition.java)
 15. Binary Tree From Inorder And Postorder - [BinaryTreeFromInorderAndPostorder](src/scaler/trees/BinaryTreeFromInorderAndPostorder.java)
+16. Binary Tree From Inorder And Preorder - [BinaryTreeFromInorderAndPreorder](src/scaler/trees/BinaryTreeFromInorderAndPreorder.java)
 
 ## Data Structures
 - Array
