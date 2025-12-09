@@ -161,6 +161,16 @@ This repository holds the solutions for the DSA problems that I solved.
 15. Binary Tree From Inorder And Postorder - [BinaryTreeFromInorderAndPostorder](src/scaler/trees/BinaryTreeFromInorderAndPostorder.java)
 16. Binary Tree From Inorder And Preorder - [BinaryTreeFromInorderAndPreorder](src/scaler/trees/BinaryTreeFromInorderAndPreorder.java)
 
+### Contest
+#### DSA 2 : Searching, LinkedList, Stacks, Queues, Trees
+1. Warmer Temperature - [WarmerTemperature](src/scaler/contest/dsa2/attempt1/WarmerTemperature.java)
+2. Maximum Frequency Stack - [MaximumFrequencyStack](src/scaler/contest/dsa2/attempt1/MaximumFrequencyStack.java)
+3. Balanced Binary Tree - [BalancedBinaryTree](src/scaler/contest/dsa2/attempt1/BalancedBinaryTree.java)
+4. Least Capacity to Ship - [LeastCapacityToShip](src/scaler/contest/dsa2/attempt1/LeastCapacityToShip.java)
+5. Level Order - [LevelOrder](src/scaler/contest/dsa2/attempt2/LevelOrder.java)
+6. Pair of Poles - [PairOfPoles](src/scaler/contest/dsa2/attempt2/PairOfPoles.java)
+7. Serialize Binary Tree - [SerializeBinaryTree](src/scaler/contest/dsa2/attempt2/SerializeBinaryTree.java)
+
 ## Data Structures
 - Array
   - [MyArray](src/data_structures/Arrays/MyArray.java)
