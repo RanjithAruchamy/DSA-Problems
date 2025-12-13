@@ -161,6 +161,11 @@ This repository holds the solutions for the DSA problems that I solved.
 15. Binary Tree From Inorder And Postorder - [BinaryTreeFromInorderAndPostorder](src/scaler/trees/BinaryTreeFromInorderAndPostorder.java)
 16. Binary Tree From Inorder And Preorder - [BinaryTreeFromInorderAndPreorder](src/scaler/trees/BinaryTreeFromInorderAndPreorder.java)
 
+### BackTracking
+1. Permutations - [Permutations](src/scaler/backtracking/Permutations.java)
+2. Generate all Parentheses II - [GenerateAllParenthesesII](src/scaler/backtracking/GenerateAllParenthesesII.java)
+3. Generate Subsets - [GenerateSubsets](src/scaler/backtracking/GenerateSubsets.java)
+
 ### Contest
 #### DSA 2 : Searching, LinkedList, Stacks, Queues, Trees
 1. Warmer Temperature - [WarmerTemperature](src/scaler/contest/dsa2/attempt1/WarmerTemperature.java)
