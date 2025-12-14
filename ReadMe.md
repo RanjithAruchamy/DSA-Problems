@@ -179,6 +179,10 @@ This repository holds the solutions for the DSA problems that I solved.
 5. Level Order - [LevelOrder](src/scaler/contest/dsa2/attempt2/LevelOrder.java)
 6. Pair of Poles - [PairOfPoles](src/scaler/contest/dsa2/attempt2/PairOfPoles.java)
 7. Serialize Binary Tree - [SerializeBinaryTree](src/scaler/contest/dsa2/attempt2/SerializeBinaryTree.java)
+8. Next Higher Temperature - [NextHigherTemperature](src/scaler/contest/dsa2/attempt3/NextHigherTemperature.java)
+9. Palindrome List - [PalindromeList](src/scaler/contest/dsa2/attempt3/PalindromeList.java)
+10. Maximum Buildings - [MaximumBuildings](src/scaler/contest/dsa2/attempt3/MaximumBuildings.java)
+11. Game of boxes - [GameOfBoxes](src/scaler/contest/dsa2/attempt3/GameOfBoxes.java)
 
 ## Data Structures
 - Array
