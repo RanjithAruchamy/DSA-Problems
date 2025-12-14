@@ -103,6 +103,10 @@ This repository holds the solutions for the DSA problems that I solved.
 6. Remove Nth Node from List End - [RemoveNthNodeFromListEnd](src/scaler/linkedlist/RemoveNthNodeFromListEnd.java)
 7. Reverse Link List II - [ReverseLinkListII](src/scaler/linkedlist/ReverseLinkListII.java)
 8. K reverse linked list - [KReverseLinkedList](src/scaler/linkedlist/KReverseLinkedList.java)
+9. Middle element of linked list - [MiddleElementOfLinkedList](src/scaler/linkedlist/MiddleElementOfLinkedList.java)
+10. Merge Two Sorted Lists - [MergeTwoSortedLists](src/scaler/linkedlist/MergeTwoSortedLists.java)
+11. Sort List - [SortList](src/scaler/linkedlist/SortList.java)
+12. Palindrome List - [PalindromeList](src/scaler/linkedlist/PalindromeList.java)
 
 ### Binary Search
 1. Search for a Range - [SearchForARange](src/scaler/binarysearch/SearchForARange.java)
