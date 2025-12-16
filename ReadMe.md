@@ -107,6 +107,9 @@ This repository holds the solutions for the DSA problems that I solved.
 10. Merge Two Sorted Lists - [MergeTwoSortedLists](src/scaler/linkedlist/MergeTwoSortedLists.java)
 11. Sort List - [SortList](src/scaler/linkedlist/SortList.java)
 12. Palindrome List - [PalindromeList](src/scaler/linkedlist/PalindromeList.java)
+13. Intersection of Linked Lists - [IntersectionOfLinkedLists](src/scaler/linkedlist/IntersectionOfLinkedLists.java)
+14. LRU Cache - [LRUCache](src/scaler/linkedlist/LRUCache.java)
+15. Remove Loop from Linked List - [RemoveLoopFromLinkedList](src/scaler/linkedlist/RemoveLoopFromLinkedList.java)
 
 ### Binary Search
 1. Search for a Range - [SearchForARange](src/scaler/binarysearch/SearchForARange.java)
