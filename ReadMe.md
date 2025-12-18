@@ -16,6 +16,7 @@ This repository holds the solutions for the DSA problems that I solved.
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) - [RemoveDuplicatesFromSortedList](src/leetcode/easy/RemoveDuplicatesFromSortedList.java)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) - [MergeSortedArray](src/leetcode/easy/MergeSortedArray.java)
 - [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) - [KeepMultiplyingFoundValuesByTwo](src/leetcode/easy/KeepMultiplyingFoundValuesByTwo.java)
+- [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges) - [RottingOranges](src/leetcode/medium/RottingOranges.java)
 
 ## Scaler
 ### If-Else
