@@ -168,6 +168,9 @@ This repository holds the solutions for the DSA problems that I solved.
 14. Equal Tree Partition - [EqualTreePartition](src/scaler/trees/EqualTreePartition.java)
 15. Binary Tree From Inorder And Postorder - [BinaryTreeFromInorderAndPostorder](src/scaler/trees/BinaryTreeFromInorderAndPostorder.java)
 16. Binary Tree From Inorder And Preorder - [BinaryTreeFromInorderAndPreorder](src/scaler/trees/BinaryTreeFromInorderAndPreorder.java)
+17. Kth Smallest Element In BST - [KthSmallestElementInBST](src/scaler/trees/KthSmallestElementInBST.java)
+18. Morris Inorder Traversal - [MorrisInorderTraversal](src/scaler/trees/MorrisInorderTraversal.java)
+19. Least Common Ancestor - [LeastCommonAncestor](src/scaler/trees/LeastCommonAncestor.java)
 
 ### BackTracking
 1. Permutations - [Permutations](src/scaler/backtracking/Permutations.java)
