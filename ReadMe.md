@@ -176,6 +176,7 @@ This repository holds the solutions for the DSA problems that I solved.
 21. Diameter of binary tree - [DiameterOfBinaryTree](src/scaler/trees/DiameterOfBinaryTree.java)
 22. Vertical Order traversal - [VerticalOrderTraversal](src/scaler/trees/VerticalOrderTraversal.java)
 23. Top View of Binary tree - [TopViewOfBinaryTree](src/scaler/trees/TopViewOfBinaryTree.java)
+24. LCA in BST - [LCAInBST](src/scaler/trees/LCAInBST.java)
 
 ### BackTracking
 1. Permutations - [Permutations](src/scaler/backtracking/Permutations.java)
