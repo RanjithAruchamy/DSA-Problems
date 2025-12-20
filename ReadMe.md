@@ -172,6 +172,10 @@ This repository holds the solutions for the DSA problems that I solved.
 17. Kth Smallest Element In BST - [KthSmallestElementInBST](src/scaler/trees/KthSmallestElementInBST.java)
 18. Morris Inorder Traversal - [MorrisInorderTraversal](src/scaler/trees/MorrisInorderTraversal.java)
 19. Least Common Ancestor - [LeastCommonAncestor](src/scaler/trees/LeastCommonAncestor.java)
+20. Next Pointer Binary Tree - [NextPointerBinaryTree](src/scaler/trees/NextPointerBinaryTree.java)
+21. Diameter of binary tree - [DiameterOfBinaryTree](src/scaler/trees/DiameterOfBinaryTree.java)
+22. Vertical Order traversal - [VerticalOrderTraversal](src/scaler/trees/VerticalOrderTraversal.java)
+23. Top View of Binary tree - [TopViewOfBinaryTree](src/scaler/trees/TopViewOfBinaryTree.java)
 
 ### BackTracking
 1. Permutations - [Permutations](src/scaler/backtracking/Permutations.java)
