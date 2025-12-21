@@ -196,6 +196,9 @@ This repository holds the solutions for the DSA problems that I solved.
 9. Palindrome List - [PalindromeList](src/scaler/contest/dsa2/attempt3/PalindromeList.java)
 10. Maximum Buildings - [MaximumBuildings](src/scaler/contest/dsa2/attempt3/MaximumBuildings.java)
 11. Game of boxes - [GameOfBoxes](src/scaler/contest/dsa2/attempt3/GameOfBoxes.java)
+12. Sort List - [SortList](src/scaler/contest/dsa2/attempt4/SortList.java)
+13. Identical Binary Trees - [IdenticalBinaryTrees](src/scaler/contest/dsa2/attempt4/IdenticalBinaryTrees.java)
+14. Next Greater - [NextGreater](src/scaler/contest/dsa2/attempt4/NextGreater.java)
 
 ## Data Structures
 - Array
