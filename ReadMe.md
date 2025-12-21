@@ -18,6 +18,8 @@ This repository holds the solutions for the DSA problems that I solved.
 - [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) - [KeepMultiplyingFoundValuesByTwo](src/leetcode/easy/KeepMultiplyingFoundValuesByTwo.java)
 - [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges) - [RottingOranges](src/leetcode/medium/RottingOranges.java)
 - [542. 01 Matrix](https://leetcode.com/problems/01-matrix) - [O1Matrix](src/leetcode/medium/O1Matrix.java)
+- [733. Flood Fill](https://leetcode.com/problems/flood-fill) - [FloodFill](src/leetcode/easy/FloodFill.java)
+- [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) - [NumberOfIslands](src/leetcode/medium/NumberOfIslands.java)
 
 ## Scaler
 ### If-Else
