@@ -19,7 +19,32 @@ public class ClosestMinMax {
      * OutputB: 3
      *
      */
-    public static int solve(int[] A) {
+
+    public int solve(int[] A) {
+
+        int maxVal = Integer.MIN_VALUE, minVal = Integer.MAX_VALUE;
+        int maxIdx = -1, minIdx = -1;
+
+        for (int num : A) {
+            maxVal = Math.max(num, maxVal);
+            minVal = Math.min(num, minVal);
+        }
+
+        int ans = Integer.MAX_VALUE;
+        for (int i = 0; i < A.length; i++) {
+            if (A[i] == maxVal) maxIdx = Math.max(maxIdx, i);
+            if (A[i] == minVal) minIdx = Math.max(minIdx, i);
+
+            if (minIdx != -1 && maxIdx != -1) {
+                int length = Math.abs(maxIdx - minIdx) + 1;
+                ans = Math.min(ans, length);
+            }
+        }
+
+        return ans;
+    }
+
+    public static int solveBF(int[] A) {
         // Find min & max values from the array
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
