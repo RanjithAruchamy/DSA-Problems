@@ -20,7 +20,7 @@ public class ClosestMinMax {
      *
      */
 
-    public int solve(int[] A) {
+    public static int solve(int[] A) {
 
         int maxVal = Integer.MIN_VALUE, minVal = Integer.MAX_VALUE;
         int maxIdx = -1, minIdx = -1;

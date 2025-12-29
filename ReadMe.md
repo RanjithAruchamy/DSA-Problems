@@ -186,6 +186,11 @@ This repository holds the solutions for the DSA problems that I solved.
 2. Generate all Parentheses II - [GenerateAllParenthesesII](src/scaler/backtracking/GenerateAllParenthesesII.java)
 3. Generate Subsets - [GenerateSubsets](src/scaler/backtracking/GenerateSubsets.java)
 
+### Hashing
+1. Custom Hashmap (Chaining) - [HashMapImplementation](src/scaler/hashing/HashMapImplementation.java)
+2. Longest Consecutive Sequence - [LongestConsecutiveSequence](src/scaler/hashing/LongestConsecutiveSequence.java)
+3. Longest Subarray Zero Sum - [LongestSubArrayZeroSum](src/scaler/hashing/LongestSubArrayZeroSum.java)
+
 ### Contest
 #### DSA 2 : Searching, LinkedList, Stacks, Queues, Trees
 1. Warmer Temperature - [WarmerTemperature](src/scaler/contest/dsa2/attempt1/WarmerTemperature.java)
