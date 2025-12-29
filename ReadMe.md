@@ -20,6 +20,7 @@ This repository holds the solutions for the DSA problems that I solved.
 - [542. 01 Matrix](https://leetcode.com/problems/01-matrix) - [O1Matrix](src/leetcode/medium/O1Matrix.java)
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill) - [FloodFill](src/leetcode/easy/FloodFill.java)
 - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) - [NumberOfIslands](src/leetcode/medium/NumberOfIslands.java)
+- [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island) - [MaxAreaOfIsland](src/leetcode/medium/MaxAreaOfIsland.java)
 
 ## Scaler
 ### If-Else
