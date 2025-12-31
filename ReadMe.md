@@ -184,6 +184,9 @@ This repository holds the solutions for the DSA problems that I solved.
 23. Top View of Binary tree - [TopViewOfBinaryTree](src/scaler/trees/TopViewOfBinaryTree.java)
 24. LCA in BST - [LCAInBST](src/scaler/trees/LCAInBST.java)
 25. Deserialize Binary Tree - [DeserializeBinaryTree](src/scaler/trees/DeserializeBinaryTree.java)
+26. Check for BST with One Child - [CheckForBSTWithOneChild](src/scaler/trees/CheckForBSTWithOneChild.java)
+27. BST nodes in a range - [BSTNodesInARange](src/scaler/trees/BSTNodesInARange.java)
+28. Two Sum BST - [TwoSumBST](src/scaler/trees/TwoSumBST.java)
 
 ### BackTracking
 1. Permutations - [Permutations](src/scaler/backtracking/Permutations.java)
