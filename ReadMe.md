@@ -198,6 +198,11 @@ This repository holds the solutions for the DSA problems that I solved.
 2. Longest Consecutive Sequence - [LongestConsecutiveSequence](src/scaler/hashing/LongestConsecutiveSequence.java)
 3. Longest Subarray Zero Sum - [LongestSubArrayZeroSum](src/scaler/hashing/LongestSubArrayZeroSum.java)
 
+### Heaps
+1. Connect Ropes - [ConnectRopes](src/scaler/heaps/ConnectRopes.java)
+2. Build a Heap - [BuildAHeap](src/scaler/heaps/BuildAHeap.java)
+3. Heap Queries - [HeapQueries](src/scaler/heaps/HeapQueries.java)
+
 ### Contest
 #### DSA 2 : Searching, LinkedList, Stacks, Queues, Trees
 1. Warmer Temperature - [WarmerTemperature](src/scaler/contest/dsa2/attempt1/WarmerTemperature.java)
