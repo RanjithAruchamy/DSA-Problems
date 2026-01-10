@@ -220,6 +220,12 @@ This repository holds the solutions for the DSA problems that I solved.
 13. Identical Binary Trees - [IdenticalBinaryTrees](src/scaler/contest/dsa2/attempt4/IdenticalBinaryTrees.java)
 14. Next Greater - [NextGreater](src/scaler/contest/dsa2/attempt4/NextGreater.java)
 
+#### DSA 3 : Math, Two Pointers, Backtracking, Linked List, Trees
+1. Children and rides - [ChildrenAndRides](src/scaler/contest/dsa3/attempt1/ChildrenAndRides.java)
+2. Special Prime Numbers - [SpecialPrimeNumbers](src/scaler/contest/dsa3/attempt1/SpecialPrimeNumbers.java)
+3. Flatten Binary tree to Linked List - [FlattenBinaryTreeToLinkedList](src/scaler/contest/dsa3/attempt1/FlattenBinaryTreeToLinkedList.java)
+4. Permutations - [Permutations](src/scaler/contest/dsa3/attempt1/Permutations.java)
+
 ## Data Structures
 - Array
   - [MyArray](src/data_structures/Arrays/MyArray.java)
