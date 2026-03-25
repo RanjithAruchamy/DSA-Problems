@@ -21,6 +21,7 @@ This repository holds the solutions for the DSA problems that I solved.
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill) - [FloodFill](src/leetcode/easy/FloodFill.java)
 - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) - [NumberOfIslands](src/leetcode/medium/NumberOfIslands.java)
 - [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island) - [MaxAreaOfIsland](src/leetcode/medium/MaxAreaOfIsland.java)
+- [62. Unique Paths](https://leetcode.com/problems/unique-paths/) - [UniquePaths](src/leetcode/medium/UniquePaths.java)
 
 ## Scaler
 ### If-Else
