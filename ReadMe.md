@@ -204,6 +204,11 @@ This repository holds the solutions for the DSA problems that I solved.
 2. Build a Heap - [BuildAHeap](src/scaler/heaps/BuildAHeap.java)
 3. Heap Queries - [HeapQueries](src/scaler/heaps/HeapQueries.java)
 
+### Graph
+1. Cycle in Directed Graph - [CycleInDirectedGraph](src/scaler/graph/CycleInDirectedGraph.java)
+2. Path in Directed Graph - [PathInDirectedGraph](src/scaler/graph/PathInDirectedGraph.java)
+3. Connected Components in an Undirected Graph - [ConnectedComponentsInAnUndirectedGraph](src/scaler/graph/ConnectedComponentsInAnUndirectedGraph.java)
+
 ### Contest
 #### DSA 2 : Searching, LinkedList, Stacks, Queues, Trees
 1. Warmer Temperature - [WarmerTemperature](src/scaler/contest/dsa2/attempt1/WarmerTemperature.java)
