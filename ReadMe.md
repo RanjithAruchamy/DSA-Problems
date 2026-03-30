@@ -208,6 +208,8 @@ This repository holds the solutions for the DSA problems that I solved.
 1. Cycle in Directed Graph - [CycleInDirectedGraph](src/scaler/graph/CycleInDirectedGraph.java)
 2. Path in Directed Graph - [PathInDirectedGraph](src/scaler/graph/PathInDirectedGraph.java)
 3. Connected Components in an Undirected Graph - [ConnectedComponentsInAnUndirectedGraph](src/scaler/graph/ConnectedComponentsInAnUndirectedGraph.java)
+4. Rotten Oranges - [RottenOranges](src/scaler/graph/RottenOranges.java)
+5. Construction Cost - [ConstructionCost](src/scaler/graph/ConstructionCost.java)
 
 ### Contest
 #### DSA 2 : Searching, LinkedList, Stacks, Queues, Trees
