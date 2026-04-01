@@ -210,6 +210,9 @@ This repository holds the solutions for the DSA problems that I solved.
 3. Connected Components in an Undirected Graph - [ConnectedComponentsInAnUndirectedGraph](src/scaler/graph/ConnectedComponentsInAnUndirectedGraph.java)
 4. Rotten Oranges - [RottenOranges](src/scaler/graph/RottenOranges.java)
 5. Construction Cost - [ConstructionCost](src/scaler/graph/ConstructionCost.java)
+6. Commutable Islands - [CommutableIslands](src/scaler/graph/CommutableIslands.java)
+7. Possibility of Finishing - [PossibilityOfFinishing](src/scaler/graph/PossibilityOfFinishing.java)
+8. Dijkstra - [Dijkstra](src/scaler/graph/Dijkstra.java)
 
 ### Contest
 #### DSA 2 : Searching, LinkedList, Stacks, Queues, Trees
