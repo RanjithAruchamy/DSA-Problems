@@ -213,6 +213,8 @@ This repository holds the solutions for the DSA problems that I solved.
 6. Commutable Islands - [CommutableIslands](src/scaler/graph/CommutableIslands.java)
 7. Possibility of Finishing - [PossibilityOfFinishing](src/scaler/graph/PossibilityOfFinishing.java)
 8. Dijkstra - [Dijkstra](src/scaler/graph/Dijkstra.java)
+9. AnotherBFS - [AnotherBFS](src/scaler/graph/AnotherBFS.java)
+10. Topological Sort - [TopologicalSort](src/scaler/graph/TopologicalSort.java)
 
 ### Contest
 #### DSA 2 : Searching, LinkedList, Stacks, Queues, Trees
