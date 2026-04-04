@@ -74,6 +74,7 @@ This repository holds the solutions for the DSA problems that I solved.
 4. Frequency count - [FrequencyCount](src/scaler/arrays/FrequencyCount.java)
 5. Frequency of X in Array - [FrequencyOfXInArray](src/scaler/arrays/FrequencyOfXInArray.java)
 6. Is X present ?- [IsXPresent](src/scaler/arrays/IsXPresent.java)
+7. Best Time to Buy and Sell Stocks II - [BestTimeToBuyAndSellStocksII](src/scaler/arrays/BestTimeToBuyAndSellStocksII.java)
 
 ### Carry Forward
 1. Special Subsequences "AG" - 2 - [SpecialSubsequencesAG](src/scaler/arrays/carryforward/SpecialSubsequencesAG.java)
@@ -216,6 +217,10 @@ This repository holds the solutions for the DSA problems that I solved.
 9. AnotherBFS - [AnotherBFS](src/scaler/graph/AnotherBFS.java)
 10. Topological Sort - [TopologicalSort](src/scaler/graph/TopologicalSort.java)
 11. Number of islands - [NumberOfIslands](src/scaler/graph/NumberOfIslands.java)
+12. Shortest Distance in a Maze - [ShortestDistanceInAMaze](src/scaler/graph/ShortestDistanceInAMaze.java)
+
+### Dynamic Programming
+1. Jump Game 2 - [JumpGame2](src/scaler/dp/JumpGame2.java)
 
 ### Contest
 #### DSA 2 : Searching, LinkedList, Stacks, Queues, Trees
