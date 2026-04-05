@@ -221,6 +221,7 @@ This repository holds the solutions for the DSA problems that I solved.
 
 ### Dynamic Programming
 1. Jump Game 2 - [JumpGame2](src/scaler/dp/JumpGame2.java)
+2. N digit numbers - [NDigitNumbers](src/scaler/dp/NDigitNumbers.java)
 
 ### Contest
 #### DSA 2 : Searching, LinkedList, Stacks, Queues, Trees
