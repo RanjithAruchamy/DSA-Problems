@@ -222,6 +222,8 @@ This repository holds the solutions for the DSA problems that I solved.
 ### Dynamic Programming
 1. Jump Game 2 - [JumpGame2](src/scaler/dp/JumpGame2.java)
 2. N digit numbers - [NDigitNumbers](src/scaler/dp/NDigitNumbers.java)
+3. Unique Binary Search Trees II - [UniqueBSTII](src/scaler/dp/UniqueBSTII.java)
+4. Max sum without adjacent elements - [MaxSumWithoutAdjacentElements](src/scaler/dp/MaxSumWithoutAdjacentElements.java)
 
 ### Contest
 #### DSA 2 : Searching, LinkedList, Stacks, Queues, Trees
